@@ -1,0 +1,11 @@
+.env
+.env.*
+*.json
+*.db
+*.sqlite
+*.sqlite3
+data/
+imports/
+secrets/
+tokens/
+credentials/
